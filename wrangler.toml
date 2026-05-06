@@ -5,3 +5,5 @@ routes = [
     "aistudioproxy.example.com/*",
     "ghmodels.example.com/*"
     ]
+[build]
+command = "npm install"
