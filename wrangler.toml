@@ -1,0 +1,7 @@
+name = "ai-proxy"
+main = "src/index.ts"
+compatibility_date = "2025-07-01"
+routes = [
+    "aistudioproxy.example.com/*",
+    "ghmodels.example.com/*"
+    ]
